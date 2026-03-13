@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🔭 Currently working on: Real world ML  and Deep Learning projects<br>👯 Open to collaborate on: Open-source AI tools, SaaS products & scalable platforms<br>💬 Ask me about: Machine Learning, GenAI<br>📫 Reach me at: uttammaurya835@gmail.com<br>
+🔭 **Currently working on**: Real world ML  and Deep Learning projects<br>👯 **Open to collaborate on**: Open-source AI tools, SaaS products & scalable platforms<br>💬 **Ask me about**: Machine Learning, GenAI<br>📫 **Reach me at**: uttammaurya835@gmail.com<br>
 
 
 ## 🌐 Socials:
