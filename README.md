@@ -22,6 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ummaurya2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ummaurya2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🐍 A Little Fun: My Github Activity Snake
 <img src="https://raw.githubusercontent.com/ummaurya2005/ummaurya2005/output/snake.svg" alt="Snake animation" />
 
 ###
